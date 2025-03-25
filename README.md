@@ -10,7 +10,7 @@ Inclined to document because yes
 React Especialization with @Rocketseat
 
 🚀 Current challenge
-Learning how to build end-to-end applications recreating from scratch a Tabnews.com.br clone with @filipedeschamps
+Well i need money so you know gimme a job :)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlekLima&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemluz&layout=compact&theme=buefy&hide_border=true" /> -->
