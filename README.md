@@ -7,6 +7,7 @@ I am passionate about seeing ideas materialize, which has rooted me deeply in th
 Inclined to document to make the future Alek's life easier
 
 🍸🎉 Last achievement
+
 Node Especialization with @Rocketseat
 
 🚀 Current challenge
