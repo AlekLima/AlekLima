@@ -4,7 +4,7 @@ Back-end developer since 2023. Specialized in Node and Nest.
 
 I am passionate about seeing ideas materialize, which has rooted me deeply in the development field. Being able to see subjective concepts take shape in reality is truly something that fascinates me.
 
-Inclined to document beacause yes
+Inclined to document because yes
 
 🍸🎉 Last achievement
 React Especialization with @Rocketseat
