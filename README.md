@@ -10,6 +10,7 @@ Inclined to document because yes
 React Especialization with @Rocketseat
 
 🚀 Current challenge
+
 Well i need money so you know gimme a job :)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlekLima&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
